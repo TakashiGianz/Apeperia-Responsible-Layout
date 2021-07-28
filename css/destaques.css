@@ -32,13 +32,13 @@
 }
 
 .destaques__painel-texto {
-    font-weight: 700;
-    font-size: 1.2rem;
-    line-height: normal;
+  font-weight: 700;
+  font-size: 1.2rem;
+  line-height: normal;
 }
 
 .destaques__botao {
-    color: var(--vermelho-forte);
-    border-color: var(--vermelho-forte);
-    margin: 0 auto;
+  color: var(--vermelho-forte);
+  border-color: var(--vermelho-forte);
+  margin: 0 auto;
 }
